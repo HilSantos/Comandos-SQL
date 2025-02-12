@@ -1,4 +1,4 @@
-# Comandos SQL
+# Comandos de Banco de Dados
 Criação de um Banco de Dados SQL.
 
 CREATE DATABASE db_ti35_teste; -- Criar base de dados
