@@ -4,7 +4,7 @@ Criação de um Banco de Dados SQL.
 CREATE DATABASE db_ti35_teste; -- Criar base de dados
 -- Isto é um comentario
 CREATE TABLE tb_alunos(
-    id_aluno          INT PRIMARY KEY AUTO_INCREMENT, -- No caso de haver mais do que uma Chave Primaria, digitar apenas PRIMARY KEY (incluir as duas linhas) --
+    id_aluno          INT PRIMARY KEY AUTO_INCREMENT, -- No caso de haver mais do que uma Chave Primaria, digitar apenas PRIMARY KEY (incluir as duas linhas), lá no final --
     nome_aluno        VARCHAR(80),
     telefone_aluno    VARCHAR(14),
     email_aluno       VARCHAR(40),
